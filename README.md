@@ -5,4 +5,4 @@ Here You can find the projects on which I've worked on:
   - [NER Project](https://github.com/MicheleGiambelli/PlotTwisters-Project): Named Entity Recognition task.
   - [Image Classification](https://github.com/RecurSieve/Image-Classification/tree/main): Image Classification task using a custom CNN.
   - [Statistical Analysis](https://github.com/RecurSieve/Statistical-analysis-of-Boston-house-pricing): Statistical analyisis of Boston house pricing.
-  - 
+  - [Bayesian Analysis](https://github.com/RecurSieve/Bayesian-Analysis-of-Leukemia-Subtypes/tree/main): Integration of Multivariate Normal and Hierarchical models in order to perform a Bayesian analysis of Leukemia subtypes. 
